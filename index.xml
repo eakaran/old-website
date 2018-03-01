@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Elizabeth A. Karan on Elizabeth A. Karan</title>
+    <link>eakaran.github.io/</link>
+    <description>Recent content in Elizabeth A. Karan on Elizabeth A. Karan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="eakaran.github.io/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Coming soon</title>
+      <link>eakaran.github.io/project/my-project-name/</link>
+      <pubDate>Wed, 28 Feb 2018 20:01:56 -0800</pubDate>
+      
+      <guid>eakaran.github.io/project/my-project-name/</guid>
+      <description>&lt;p&gt;I will be posting more details on my projects as my dissertation starts to take shape.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>My new website!</title>
+      <link>eakaran.github.io/post/welcome/</link>
+      <pubDate>Wed, 28 Feb 2018 19:49:50 -0800</pubDate>
+      
+      <guid>eakaran.github.io/post/welcome/</guid>
+      <description>&lt;p&gt;This is my new website. It looks a lot nicer than my old one. I&amp;rsquo;ll add more posts in the future!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Nacre tablet thickness records formation temperature in modern and fossil shells</title>
+      <link>eakaran.github.io/publication/nacre-paper/</link>
+      <pubDate>Wed, 15 Feb 2017 00:00:00 -0800</pubDate>
+      
+      <guid>eakaran.github.io/publication/nacre-paper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A comparative study of damselfish scale morphology</title>
+      <link>eakaran.github.io/publication/sicb-poster/</link>
+      <pubDate>Tue, 05 Jan 2016 00:00:00 -0800</pubDate>
+      
+      <guid>eakaran.github.io/publication/sicb-poster/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

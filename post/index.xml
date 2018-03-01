@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Elizabeth A. Karan</title>
+    <link>eakaran.github.io/post/</link>
+    <description>Recent content in Posts on Elizabeth A. Karan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0800</lastBuildDate>
+    
+	<atom:link href="eakaran.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My new website!</title>
+      <link>eakaran.github.io/post/welcome/</link>
+      <pubDate>Wed, 28 Feb 2018 19:49:50 -0800</pubDate>
+      
+      <guid>eakaran.github.io/post/welcome/</guid>
+      <description>This is my new website. It looks a lot nicer than my old one. I&amp;rsquo;ll add more posts in the future!</description>
+    </item>
+    
+  </channel>
+</rss>

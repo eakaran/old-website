@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Elizabeth A. Karan</title>
+    <link>eakaran.github.io/publication/</link>
+    <description>Recent content in Publications on Elizabeth A. Karan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="eakaran.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Nacre tablet thickness records formation temperature in modern and fossil shells</title>
+      <link>eakaran.github.io/publication/nacre-paper/</link>
+      <pubDate>Wed, 15 Feb 2017 00:00:00 -0800</pubDate>
+      
+      <guid>eakaran.github.io/publication/nacre-paper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A comparative study of damselfish scale morphology</title>
+      <link>eakaran.github.io/publication/sicb-poster/</link>
+      <pubDate>Tue, 05 Jan 2016 00:00:00 -0800</pubDate>
+      
+      <guid>eakaran.github.io/publication/sicb-poster/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
